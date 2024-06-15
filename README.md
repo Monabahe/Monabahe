@@ -6,16 +6,16 @@ Data Analyst
 
 ## I am a passionate data analyst who is always eager to learn and grow in a dynamic landscape. I have proficiency in various data management and technical tools. I possess strong communication skills and have a keen interest in painting and traveling to explore new things.
 
-* 🌍  I'm based in Balaghat Madhya Pradesh
-* ✉️  You can contact me at [monabahe430@gmail.com](mailto:monabahe430@gmail.com)
-* 🧠  I'm learning Rest Framework in Django for API
-* 🤝  I'm open to collaborating on Data analyst project
-* 🏆  I know Power BI, Python and its libraries, Django, MySQL and Advance Excel
+### * 🌍  I'm based in Balaghat Madhya Pradesh
+### * ✉️  You can contact me at [monabahe430@gmail.com](mailto:monabahe430@gmail.com)
+### * 🧠  I'm learning Rest Framework in Django for API
+### * 🤝  I'm open to collaborating on Data analyst project
+### * 🏆  I know Power BI, Python and its libraries, Django, MySQL and Advance Excel
 
 <a href="https://www.github.com/Monabahe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Monabahe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+## Skills
 
 
 <p align="left">
